@@ -1,1 +1,1 @@
-0x02 shell IO redirections and fliters Readme file
+0x02 shell IO redirections and fliters Read me file
